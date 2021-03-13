@@ -996,7 +996,7 @@ footer{
     padding: 5px 0;
   }
 }
-@media (min-width: 460px) and (max-width:576px){
+@media (max-width:576px){
   body{
     overflow-x: hidden;
   }
