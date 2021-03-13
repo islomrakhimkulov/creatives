@@ -1012,7 +1012,7 @@ footer{
     padding: 15px 0;
   }
   .menu .logo img{
-    width: 70px;
+    width: 65px;
   }
   .nav-social ul{
     display: flex;
@@ -1024,7 +1024,7 @@ footer{
 }
   .creatives h1{
     font-size: 36px;
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom: 10px;
   }
   .creatives p{
@@ -1040,14 +1040,14 @@ footer{
   }
 /*  start Awesome*/
   .awesome{
-    padding:  50px 5px;
+    padding:  30px 5px;
   }
   .overflow{
-    padding: 80px;
-    font-size: 18px;
+    padding: 50px;
+    font-size: 20px;
   }
   .overflow::before{
-    font-size: 130px;
+    font-size: 100px;
   }
   .feat-cards{
     display: block;
